@@ -2,3 +2,4 @@ numpy
 notebook
 matplotlib
 graphviz
+torch
